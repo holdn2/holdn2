@@ -3,6 +3,8 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/holdn2"/>
 </a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holdn2&layout=compact)
 
+##Statistics
+***
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holdn2&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=holdn2&show_icons=true&theme=radical)
