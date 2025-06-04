@@ -21,9 +21,11 @@
 
 
 ## Statistics
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/holdn2" width="1000" height="120"/>
-</a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holdn2&layout=donut)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=holdn2&show_icons=true&theme=radical)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/holdn2" width="49%" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=holdn2&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=ffd700&text_color=fff&title_color=ffd700&count_private=true" width="49%" />
+  </a>
+</div>
