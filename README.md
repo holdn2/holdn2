@@ -25,7 +25,7 @@
 | **🏫 KU:ROOM** | 건국대학교 맞춤형 대학 생활 가이드 | [진행중](https://github.com/KU-rum/KU-ROOM-Web) |
 | **🧼 토버스 외주** | 고도몰을 활용한 쇼핑몰 개발 외주 | [완료](https://towbus.kr/) |
 | **🤙🏻 똑똑!** | 어르신 AI 케어콜 서비스 | [완료](https://github.com/DND-HACKATON/frontend) |
-| **☝️ CSS Module Usage Finder** | 어르신 AI 케어콜 서비스 | [완료](https://github.com/DND-HACKATON/frontend) |
+| **☝️ CSS Module Usage Finder** | Visual Studio Code Extension 제작 | [완료](https://marketplace.visualstudio.com/items?itemName=uchan0.css-module-usage-finder) |
 | **💸 모아모아** | 절약을 시작하는 가장 재미있는 방법! | [완료](https://github.com/KUIT-MoaMoa/MoaMoa-Frontend) |
 
 ## Statistics
