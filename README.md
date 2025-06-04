@@ -18,11 +18,12 @@
 - **Github : https://github.com/holdn2**
 - **Blog : [uchan0 - velog](https://velog.io/@uchan0)**
 
+
+
+## Statistics
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/holdn2" width="1000" height="120"/>
 </a>
-
-## Statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holdn2&layout=donut)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=holdn2&show_icons=true&theme=radical)
