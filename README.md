@@ -4,6 +4,8 @@
   <img src="https://render.gitanimals.org/farms/holdn2"/>
 </a>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=holdn2&show_icons=true&theme=radical)
+
 
 ## Statistics
 
