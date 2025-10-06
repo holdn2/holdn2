@@ -22,6 +22,7 @@
 
 | 프로젝트명 | 설명 |  |
 |------------|------|--------|
+| **🚚 ChaCall** | 푸드트럭 사장님과 고객 간 연결 서비스 | [진행중](https://github.com/CHA-CALL/ChaCall-FE)|
 | **🏫 KU:ROOM** | 건국대학교 맞춤형 대학 생활 가이드 | [진행중](https://github.com/KU-rum/KU-ROOM-Web) |
 | **🧼 토버스 외주** | 고도몰을 활용한 쇼핑몰 개발 외주 | [완료](https://towbus.kr/) |
 | **🤙🏻 똑똑!** | 어르신 AI 케어콜 서비스 | [완료](https://github.com/DND-HACKATON/frontend) |
