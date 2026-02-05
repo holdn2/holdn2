@@ -37,6 +37,6 @@
     <img src="https://render.gitanimals.org/farms/holdn2" width="49%" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-uch0.vercel.app/api?username=holdn2&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=ffd700&text_color=fff&title_color=ffd700&count_private=true" width="49%" />
+    <img src="https://github-readme-stats-khaki-ten-60.vercel.app/api?username=holdn2&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=2026+Stats" width="49%" />
   </a>
 </div>
