@@ -38,6 +38,10 @@
 - `2025.05` : 2025 DND 해커톤 2등상 수상 (똑똑!)
 - `2025.08` : 2025 KUIT 5기 프로젝트 최우수상 (블락가드)
 
+## ☺️ Experience
+- `2024.09 ~ 2025.02` : 건국대학교 IT동아리 KUIT 4기 Web 수료
+- `2025.03 ~ 2025.08` :  건국대학교 IT동아리 KUIT 5기 Server 수료
+
 ## Statistics
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://github.com/devxb/gitanimals">
