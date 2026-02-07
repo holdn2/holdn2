@@ -17,6 +17,7 @@
 - **E-Mail : yoocy01@gmail.com / holdn2@naver.com**
 - **Github : https://github.com/holdn2**
 - **Blog : [uchan0 - velog](https://velog.io/@uchan0)**
+- **Portfolio : https://brook-snapper-864.notion.site/1f0a7164c06180fd8d7bf5242af7fac2**
 
 ## 📃 프로젝트
 
