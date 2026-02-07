@@ -19,7 +19,7 @@
 - **Blog : [uchan0 - velog](https://velog.io/@uchan0)**
 - **Portfolio : https://brook-snapper-864.notion.site/1f0a7164c06180fd8d7bf5242af7fac2**
 
-## 📃 프로젝트
+## 📃 Projects
 
 | 프로젝트명 | 설명 |  |
 |------------|------|--------|
@@ -31,6 +31,10 @@
 | **🤙🏻 똑똑!** | 어르신 AI 케어콜 서비스 | [완료](https://github.com/DND-HACKATON/frontend) |
 | **☝️ CSS Module Usage Finder** | CSS Module 클래스 사용처로 이동해주는 VS Code 확장 | [완료](https://marketplace.visualstudio.com/items?itemName=uchan0.css-module-usage-finder) |
 | **💸 모아모아** | 절약을 시작하는 가장 재미있는 방법! | [완료](https://github.com/KUIT-MoaMoa/MoaMoa-Frontend) |
+
+## 🏆 Awards
+- `2025.05` : 2025 DND 해커톤 2등상 수상 (똑똑!)
+- `2025.08` : 2025 KUIT 5기 프로젝트 최우수상 (블락가드)
 
 ## Statistics
 <div style="display: flex; justify-content: space-between; align-items: center;">
