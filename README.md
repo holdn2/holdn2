@@ -26,7 +26,7 @@
 | 프로젝트명 | 설명 |  |
 |------------|------|--------|
 | **🏫 KU:ROOM** | 건국대학교 맞춤형 대학 생활 가이드 | [진행중](https://github.com/KU-rum/KU-ROOM-Web) |
-| **🚚 ChaCall** | 푸드트럭 사장님과 고객 간 연결 서비스 | [진행중](https://github.com/CHA-CALL/ChaCall-FE)|
+| **🚚 ChaCall** | 푸드트럭 사장님과 고객 간 연결 서비스 | [완료](https://github.com/CHA-CALL/ChaCall-FE)|
 | **📱 Transtalk** | 실시간으로 자동 번역해주는 1:1 채팅 서비스 | [완료](https://github.com/trans-talk)|
 | **🛡️ 블락가드** | AI를 활용한 보이스피싱 사전예방 통합 서비스 | [완료](https://github.com/Block-Guard/BlockGuard-Client)|
 | **🧼 토버스 외주** | 고도몰 기반 쇼핑몰 홈페이지 개발 외주 | [완료](https://towbus.kr/) |
