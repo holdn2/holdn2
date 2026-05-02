@@ -51,3 +51,6 @@
     <img src="https://github-readme-stats-khaki-ten-60.vercel.app/api?username=holdn2&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=2026+Stats" width="49%" />
   </a>
 </div>
+
+![GitHub grass](https://github-readme-grass.vercel.app/api/grass?username=holdn2)
+
