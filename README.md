@@ -25,6 +25,7 @@
 
 | 프로젝트명 | 설명 |  |
 |------------|------|--------|
+| **📚 THIP** | 독서감상을 기록하는 가장 힙한 방법? THIP! | [진행중](https://github.com/THIP-TextHip) |
 | **🏫 KU:ROOM** | 건국대학교 맞춤형 대학 생활 가이드 | [완료](https://github.com/KU-rum/KU-ROOM-Web) |
 | **🚚 ChaCall** | 푸드트럭 사장님과 고객 간 연결 서비스 | [완료](https://github.com/CHA-CALL/ChaCall-FE)|
 | **📱 Transtalk** | 실시간으로 자동 번역해주는 1:1 채팅 서비스 | [완료](https://github.com/trans-talk)|
