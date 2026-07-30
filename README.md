@@ -11,6 +11,7 @@
 
 ## 🙋‍♂️ About Me!
 - **건국대학교** (Konkuk University)
+- **학점 : 4.11 / 4.50**
 - **전공 : 스마트ICT융합공학과** 
 - **부전공 : 경영학과**
 - **Birth : 2001.03.30**
@@ -19,7 +20,7 @@
 - **E-Mail : yoocy01@gmail.com / holdn2@naver.com**
 - **Github : https://github.com/holdn2**
 - **Blog : [uchan0 - velog](https://velog.io/@uchan0)**
-- **Portfolio : https://brook-snapper-864.notion.site/1f0a7164c06180fd8d7bf5242af7fac2**
+- **Portfolio : https://brook-snapper-864.notion.site/Frontend-Portfolio-3a1a7164c0618074846bf6ef04e77524**
 
 ## 📃 Projects
 
@@ -41,7 +42,8 @@
 
 ## ☺️ Experience
 - `2024.09 ~ 2025.02` : 건국대학교 IT동아리 KUIT 4기 Web 수료
-- `2025.03 ~ 2025.08` :  건국대학교 IT동아리 KUIT 5기 Server 수료
+- `2025.03 ~ 2025.08` : 건국대학교 IT동아리 KUIT 5기 Server 수료
+- `2026.03 ~ 진행 중` : 건국대학교 정보운영팀 근로장학생
 
 ## Statistics
 <div style="display: flex; justify-content: space-between; align-items: center;">
